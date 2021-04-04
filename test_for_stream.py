@@ -3,10 +3,6 @@ import numpy as np
 import streamlit as st 
 import time
 
-df=pd.read_excel('D:\迅雷下载\港股对标公司.xlsx')
-
-df
-
 st.write('This is my app!')
 
 st.write('''
